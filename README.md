@@ -2,9 +2,9 @@
 
 July 26, 2017
 
-Ms. Soraya Correa
-Chief Procurement Officer
-Directorate for Management
+Ms. Soraya Correa<br>
+Chief Procurement Officer<br>
+Directorate for Management<br>
 Department of Homeland Security (DHS)
 
 Ms. Correa,
@@ -25,33 +25,34 @@ With sincere thanks,
 
 
 
-Paresh Dharia
-COO
+Paresh Dharia<br>
+COO<br>
 Navitas Business Consulting 
 
-Greg Gershman
-CEO
+Greg Gershman<br>
+CEO<br>
 Ad Hoc LLC
 
-Amit Malhotra
-Managing Member
+Amit Malhotra<br>
+Managing Member<br>
 Innovations JV, LLC
 
-Patrick McConnell 
-CTO
+Patrick McConnell <br>
+CTO<br>
 SemanticBits LLC
-Ben Morris
-Partner
+
+Ben Morris<br>
+Partner<br>
 STSI
 
-Rahul Pandhi
-Managing Member
+Rahul Pandhi<br>
+Managing Member<br>
 LinkTec LLC
 
-Sundar Vaidyanathan
-CEO
+Sundar Vaidyanathan<br>
+CEO<br>
 Karsun Solutions
 
-Simon Woo
-Vice President
+Simon Woo<br>
+Vice President<br>
 SimonComputing, Inc.
