@@ -1,5 +1,8 @@
 # Media Discussion
 
+[DHS leaders discuss where FLASH went wrong (and right)](http://govmatters.tv/dhs-leaders-discuss-where-flash-went-wrong-and-right/) (video)<br>
+George Jackson, Government Matters, 2017-07-30
+
 [FLASH winners want to salvage what's good from cancelled contract](https://washingtontechnology.com/blogs/editors-notebook/2017/07/flash-open-letter-to-dhs.aspx)<br>
 Nick Wakeman, Washington Technology, 2017-07-27
 
